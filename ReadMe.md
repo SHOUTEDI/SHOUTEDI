@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caio-henrik-silva-rodrigues-859835376/) 
-[![Portfolio](https://img.shields.io/badge/Visit-my-Work-bd00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://shoutedi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-henrik-silva-rodrigues) 
+[![Portfolio](https://img.shields.io/badge/Dev_Portfolio-shoutedi.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://shoutedi.github.io)
 
 
 # 💻 Tech Stack:
