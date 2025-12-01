@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-henrik-silva-rodrigues) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrik-silva-rodrigues)
 [![Portfolio](https://img.shields.io/badge/Dev_Portfolio-shoutedi.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://shoutedi.github.io)
 
 
