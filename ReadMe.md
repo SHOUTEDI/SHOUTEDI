@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caio-henrik-silva-rodrigues-859835376/) 
-[![Portfolio](https://img.shields.io/badge/Visite_Meu_Portfolio-Neon_Mode-bd00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://shoutedi.github.io)
+[![Portfolio](https://img.shields.io/badge/Visit-my-Work-bd00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://shoutedi.github.io)
 
 
 # 💻 Tech Stack:
