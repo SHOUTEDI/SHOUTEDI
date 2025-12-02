@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Engineering Student<br>🛠️ Modder for Rimworld and other games<br>👾 Godot Engine Dev in free time<br>🧠  C# and Python User
+🚀 Software Engineering Student<br>🛠️ Modder for Rimworld and other games<br>👾 Godot Engine Dev in free time<br>🧠  C# and Python Developer
 
 
 ## 🌐 Socials:
