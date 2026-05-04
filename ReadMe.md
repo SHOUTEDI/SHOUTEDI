@@ -1,78 +1,65 @@
-Caio Henrik
-Software Engineering student focused on building practical software, game systems, and mods that people actually use.
-
-I work across web development, game/mod development, and general-purpose programming, with hands-on experience shipping personal projects and public releases.
-
+<h1 align="center">Caio Henrik</h1> <h3 align="center">Software Engineering Student • Web Developer • RimWorld Modder</h3> <p align="center"> <a href="https://github.com/SHOUTEDI"> <img src="https://img.shields.io/badge/GitHub-SHOUTEDI-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://shoutedi.github.io"> <img src="https://img.shields.io/badge/Website-shoutedi.github.io-0a7ea4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"> </a> <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3525897161"> <img src="https://img.shields.io/badge/RimWorld%20Mod-More%20Balanced%20Raids-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Mod"> </a> <a href="https://buymeacoffee.com/zSHOUTEDI"> <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee"> </a> </p> <p align="center"> I build practical software, game systems, and public-facing projects with a focus on clean logic, useful features, and real player/user experience. </p>
 About Me
-Software Engineering student
-RimWorld modder and game systems developer
-Interested in gameplay logic, tooling, and clean code
-Comfortable moving between frontend, scripting, and game logic
-What I Build
+Software Engineering student with a strong interest in building things that people can actually use
+RimWorld modder focused on gameplay systems, balancing, and configurable mechanics
+Web developer using personal projects to sharpen frontend and product presentation skills
+Comfortable working with programming logic, scripting, gameplay features, and UI structure
+Featured Work
 Personal Website
-I built my own website as a space to present my work, projects, and technical profile.
+My website is my public portfolio and a place where I present my projects, profile, and work direction.
 
-Live: 
+Live project: 
 shoutedi.github.io
 
-Through this project, I work with:
+What it highlights:
 
 Frontend structure and styling
-Personal branding and portfolio presentation
-Web technologies for shipping a public-facing product
+Portfolio presentation and personal branding
+Public deployment and project communication
 RimWorld Mod: More Balanced Raids
-I created More Balanced Raids, a RimWorld mod focused on making combat encounters more varied, tactical, and replayable.
+I created More Balanced Raids, a RimWorld mod designed to make raids feel more tactical, varied, and less repetitive.
 
-Workshop: 
-More Balanced Raids on Steam
+Steam Workshop: 
+More Balanced Raids
 
-What the mod demonstrates:
+What this project demonstrates:
 
 Gameplay systems design
-Modding with configurable logic
-Combat balance and encounter variety
-Support for multiple factions and mod compatibility
-Public release, player feedback, and iteration
-Key ideas behind the mod:
+Encounter balance and raid variety
+Configurable mod logic
+Compatibility-minded development
+Publishing, player feedback, and iteration
+Core ideas behind the mod:
 
-Rebalanced raid composition instead of repetitive enemy waves
+Smarter raid composition instead of repetitive enemy waves
 Tactical role distribution for attackers
-Variant raid behaviors for more dynamic encounters
-In-game customization for tuning the experience
-Knowledge & Technologies
-Languages
-C#
-Python
-JavaScript
-Java
-HTML
-CSS
-Areas I Work In
+Variant raid behavior for more dynamic combat scenarios
+In-game customization so players can tune the experience
+Tech Stack
+<p> <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"> <img src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"> <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </p>
+Focus Areas
 Web development
 Game development
-Gameplay programming
 Mod development
-Logic/system design
-Tools & Engines
-Godot Engine
-Git & GitHub
-What I’m Looking To Grow
-I’m currently improving my skills in:
+Gameplay programming
+Systems and balancing logic
+GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SHOUTEDI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOUTEDI&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"> </p>
+Current Goals
+Improve software architecture and code organization
+Build stronger frontend projects
+Keep expanding game systems and modding experience
+Turn personal projects into a stronger professional portfolio
+Support My Work
+If you like what I build and want to support future projects:
 
-Software architecture
-Scalable code organization
-Frontend development
-Game systems programming
+Buy me a coffee: 
+buymeacoffee.com/zSHOUTEDI
+
 Contact
 GitHub: 
 @SHOUTEDI
 Website: 
 shoutedi.github.io
-LinkedIn: add your LinkedIn link here
-If you want, I can also turn this into a more premium GitHub-profile README with:
-
-badges
-GitHub stats
-icons
-featured project cards
-a cleaner visual layout in English or Portuguese
+Steam Workshop: 
+More Balanced Raids
