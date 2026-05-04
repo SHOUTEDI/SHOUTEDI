@@ -1,23 +1,78 @@
-# 💫 About Me:
-🚀 Software Engineering Student<br>🛠️ Modder for Rimworld and other games<br>👾 Godot Engine Dev in free time<br>🧠  C# and Python Developer
+Caio Henrik
+Software Engineering student focused on building practical software, game systems, and mods that people actually use.
 
+I work across web development, game/mod development, and general-purpose programming, with hands-on experience shipping personal projects and public releases.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrik-silva-rodrigues)
-[![Portfolio](https://img.shields.io/badge/Dev_Portfolio-shoutedi.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://shoutedi.github.io)
+About Me
+Software Engineering student
+RimWorld modder and game systems developer
+Interested in gameplay logic, tooling, and clean code
+Comfortable moving between frontend, scripting, and game logic
+What I Build
+Personal Website
+I built my own website as a space to present my work, projects, and technical profile.
 
+Live: 
+shoutedi.github.io
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHOUTEDI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHOUTEDI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOUTEDI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Through this project, I work with:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Frontend structure and styling
+Personal branding and portfolio presentation
+Web technologies for shipping a public-facing product
+RimWorld Mod: More Balanced Raids
+I created More Balanced Raids, a RimWorld mod focused on making combat encounters more varied, tactical, and replayable.
 
----
-[![](https://visitcount.itsvg.in/api?id=SHOUTEDI&icon=0&color=0)](https://visitcount.itsvg.in)
+Workshop: 
+More Balanced Raids on Steam
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+What the mod demonstrates:
+
+Gameplay systems design
+Modding with configurable logic
+Combat balance and encounter variety
+Support for multiple factions and mod compatibility
+Public release, player feedback, and iteration
+Key ideas behind the mod:
+
+Rebalanced raid composition instead of repetitive enemy waves
+Tactical role distribution for attackers
+Variant raid behaviors for more dynamic encounters
+In-game customization for tuning the experience
+Knowledge & Technologies
+Languages
+C#
+Python
+JavaScript
+Java
+HTML
+CSS
+Areas I Work In
+Web development
+Game development
+Gameplay programming
+Mod development
+Logic/system design
+Tools & Engines
+Godot Engine
+Git & GitHub
+What I’m Looking To Grow
+I’m currently improving my skills in:
+
+Software architecture
+Scalable code organization
+Frontend development
+Game systems programming
+Contact
+GitHub: 
+@SHOUTEDI
+Website: 
+shoutedi.github.io
+LinkedIn: add your LinkedIn link here
+If you want, I can also turn this into a more premium GitHub-profile README with:
+
+badges
+GitHub stats
+icons
+featured project cards
+a cleaner visual layout in English or Portuguese
